@@ -413,24 +413,7 @@ Linkedin-in<br>
          </tr>
          <tr>
            <th>RELIGION</th>
-           <th colspan="3"></th>
-           </tr>
-           <tr>
-          <th rowspan="3">ADDRESS</th>
-          <td colspan="2">STREET</td>
-          <td>*</td>
-          </tr>
-          <tr>
-           <td colspan="2">STATE</td>
-           <td>*</td>
-           </tr>
-           <tr>
-             <td rowspan="2">PHONE</td>
-             
-             <td>*</td>
-             </tr>
-             <tr>
-               </table>
+
           
 </body>
 <>
